@@ -1,0 +1,11 @@
+Hello world
+
+git config --global user.name "Grzegorz Niedzielski"
+git config --global user.email "geo_1998@o2.pl"
+
+conda activate pum-25
+
+
+git status
+git add test.txt
+git commit -m 'Added test.txt'
