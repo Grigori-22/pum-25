@@ -4,7 +4,7 @@ git config --global user.name "Grzegorz Niedzielski"
 git config --global user.email "geo_1998@o2.pl"
 
 conda activate pum-25
-
+jupyter notebook
 
 git status
 git add test.txt
