@@ -48,6 +48,7 @@ def plot_gradient_descent(f, xs):
     plt.plot(xs, [f(x) for x in xs], c='crimson', marker='o')
 
 
+
 import torch.nn as nn
 
 class NeuralNetwork(nn.Module):
